@@ -1,0 +1,36 @@
+{
+    "buyers": [
+      { "id": 1, "login": "igor", "password": "igor" },
+      { "id": 2, "login": "semen", "password": "semen" }
+    ],
+    "companies": [
+      { "id": 1, 
+        "login": "dns",
+        "name": "Dns", 
+        "password": "dns", 
+        "goods": [
+            {
+            "name":"Iphone6",
+            "info": "Apple phone 6gb 128gb"
+            },
+            {
+                "name":"Samsung s10",
+                "info": "Samsung phone 6gb 128gb"
+            }
+        ], 
+        "info": "dns - good company from Russia. 1000+ goods"
+      },
+      { "id": 2, 
+        "login": "citilink",
+        "name": "Citilink", 
+        "password": "citilink", 
+        "goods": [
+            {
+            "name":"Iphone6",
+            "info": "Apple phone 6gb 128gb"
+            }
+        ],
+        "info": "citilink - good company from Russia. 1000+ goods"
+      }      
+    ]
+}
